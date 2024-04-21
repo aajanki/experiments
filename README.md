@@ -1,3 +1,4 @@
 # Small experiments
 
-* [Longest winning stream](voittoputki)
+* [Longest winning streak](voittoputki)
+* [Plot of Zipf's law on Finnish texts](zipf)
