@@ -24,7 +24,7 @@ def main():
                   ylabel='Esiintymistodennäköisyys',
                   title='Zipfin laki suomenkielisessä tekstiaineistossa')
     plt.tight_layout()
-    plt.savefig('zipf-finnish-c4.png')
+    plt.savefig('results/zipf-finnish-c4.png')
     plt.show()
 
 def load_frequencies(cutoff=None):
